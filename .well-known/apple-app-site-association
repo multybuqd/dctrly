@@ -1,0 +1,16 @@
+{
+  "webcredentials": {
+    "apps": [
+      "T67V8N4Y55.ru.doctorly.app"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+          "appID": "T67V8N4Y55.ru.doctorly.app",
+          "paths": [ "/app/*" ]
+      }
+    ]
+  }
+}
